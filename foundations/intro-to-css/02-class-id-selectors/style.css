@@ -1,0 +1,19 @@
+.paragraph {
+  font-family: Verdana, "DejaVu Sans", sans-serif;
+  background-color: pink;
+}
+
+.cool {
+  font-size: 24px;
+}
+
+#important-1 {
+  font-size: 36px;
+  color: blue;
+}
+
+#important-2 {
+  font-size: 24px;
+  font-weight: 700;
+  background-color: lightgreen;
+}
